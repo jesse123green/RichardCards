@@ -1,0 +1,655 @@
+TRichard Cards
+v7
+r0
+t302895771.949826
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/Info.plist" Richard_Cards-Info.plist
+cCompileXIB "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/MainWindow.xib"
+cCompileXIB "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/RootViewController.xib"
+cCompileXIB "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.xib"
+cCompileXIB "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.xib"
+cCpResource "build/Debug-iphonesimulator/Richard Cards.app/richardcards_main_tall.png" Images/richardcards_main_tall.png
+cCpResource "build/Debug-iphonesimulator/Richard Cards.app/richardcards_main.png" Images/richardcards_main.png
+cCpResource "build/Debug-iphonesimulator/Richard Cards.app/addressLabel.png" Images/addressLabel.png
+cCpResource "build/Debug-iphonesimulator/Richard Cards.app/messageLabel.png" Images/messageLabel.png
+cCpResource "build/Debug-iphonesimulator/Richard Cards.app/NavBar.png" Images/NavBar.png
+cCpResource "build/Debug-iphonesimulator/Richard Cards.app/penarichard.png" Images/penarichard.png
+cCpResource "build/Debug-iphonesimulator/Richard Cards.app/penarichard_hilite.png" Images/penarichard_hilite.png
+cCpResource "build/Debug-iphonesimulator/Richard Cards.app/Background.png" Images/Background.png
+cCpResource "build/Debug-iphonesimulator/Richard Cards.app/middleRow.png" Images/middleRow.png
+cCpResource "build/Debug-iphonesimulator/Richard Cards.app/middleRowSelected.png" Images/middleRowSelected.png
+cProcessPCH /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-fmkkzkcfheknwhfeebyuwnoywnbb/Richard_Cards_Prefix.pch.gch Richard_Cards_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/main.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/Richard_CardsAppDelegate.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/Richard_CardsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/RootViewController.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/AddressView.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/MessageView.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/MyManager.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MyManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/Richard Cards" normal i386
+cGenerateDSYMFile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app.dSYM" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/Richard Cards"
+cTouch "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/Availability.h
+c000000004B2B4EE200000000000019F9
+t1261129442
+s6649
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/Availability.h
+c000000004BD1CFC10000000000001A1A
+t1272041409
+s6682
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.h
+c000000004C5D973F000000000000032D
+t1281201983
+s813
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.m
+c000000004C5D97440000000000000B8B
+t1281201988
+s2955
+i"AddressView.h"
+i"MyManager.h"
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.xib
+c000000004C5D97360000000000007A0F
+t1281201974
+s31247
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.h
+c000000004C0DBA2C00000000000001A1
+t1275968044
+s417
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.m
+c000000004C5B4C09000000000000174F
+t1281051657
+s5967
+i"MessageView.h"
+i"AddressView.h"
+i"MyManager.h"
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.xib
+c000000004C088CF30000000000004D78
+t1275628787
+s19832
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MyManager.h
+c000000004C0B2349000000000000013F
+t1275798345
+s319
+i<Foundation/Foundation.h>
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MyManager.m
+c000000004C0B237F0000000000000454
+t1275798399
+s1108
+i"MyManager.h"
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/Richard_CardsAppDelegate.h
+c000000004C08832700000000000001D8
+t1275626279
+s472
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/Richard_CardsAppDelegate.m
+c000000004C09DF7A0000000000000A28
+t1275715450
+s2600
+i"Richard_CardsAppDelegate.h"
+i"RootViewController.h"
+i"MessageView.h"
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/RootViewController.h
+c000000004C0DBA820000000000000124
+t1275968130
+s292
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/RootViewController.m
+c000000004C0DBAA80000000000001841
+t1275968168
+s6209
+i"RootViewController.h"
+i"MessageView.h"
+i"AddressView.h"
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/Background.png
+c000000004C05B874000000000001FC9A
+t1275443316
+s130202
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/NavBar.png
+c000000004C05C2800000000000003EFA
+t1275445888
+s16122
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/addressLabel.png
+c000000004C070F96000000000000149A
+t1275531158
+s5274
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/messageLabel.png
+c000000004C06DFE50000000000000FBE
+t1275518949
+s4030
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/middleRow.png
+c000000004C05EDA40000000000000574
+t1275456932
+s1396
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/middleRowSelected.png
+c000000004C05EDAF000000000000075E
+t1275456943
+s1886
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/penarichard.png
+c000000004C0714B6000000000000212B
+t1275532470
+s8491
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/penarichard_hilite.png
+c000000004C07183100000000000017F6
+t1275533361
+s6134
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/richardcards_main.png
+c000000004C07120B000000000002B039
+t1275531787
+s176185
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/richardcards_main_tall.png
+c000000004C073432000000000002C4F5
+t1275540530
+s181493
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/MainWindow.xib
+c000000004C0883270000000000002F58
+t1275626279
+s12120
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Richard_Cards_Prefix.pch
+c000000004C088327000000000000014C
+t1275626279
+s332
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/RootViewController.xib
+c000000004C0883270000000000004458
+t1275626279
+s17496
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app
+t1281202971
+s646
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app.dSYM
+t1281202971
+s102
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/AddressView.nib
+t1281202970
+s2327
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/Background.png
+t1281202970
+s130202
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/Info.plist
+t1281202969
+s670
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/MainWindow.nib
+t1281202969
+s1515
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/MessageView.nib
+t1281202970
+s1312
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/NavBar.png
+t1281202970
+s16122
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/PkgInfo
+t1281202969
+s8
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/Richard Cards
+t1281202971
+s43748
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/RootViewController.nib
+t1281202969
+s979
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/addressLabel.png
+t1281202970
+s5274
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/messageLabel.png
+t1281202970
+s4030
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/middleRow.png
+t1281202970
+s1396
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/middleRowSelected.png
+t1281202970
+s1886
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/penarichard.png
+t1281202970
+s8491
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/penarichard_hilite.png
+t1281202970
+s6134
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/richardcards_main.png
+t1281202970
+s176185
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/richardcards_main_tall.png
+t1281202970
+s181493
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/AddressView.o
+t1281202971
+s46672
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/MessageView.o
+t1281202971
+s49860
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/MyManager.o
+t1281202971
+s13236
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/Richard Cards.LinkFileList
+c000000004C5D9B1900000000000003CB
+t1281202969
+s971
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/Richard_CardsAppDelegate.o
+t1281202971
+s50252
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/RootViewController.o
+t1281202971
+s49184
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/main.o
+t1281202971
+s6340
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/main.m
+c000000004C0883270000000000000162
+t1275626279
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-fclxnxvftmheuughjwavqqhawlpa/Richard_Cards_Prefix.pch.gch
+t1275626286
+s13026768
+
+N/var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-fmkkzkcfheknwhfeebyuwnoywnbb/Richard_Cards_Prefix.pch.gch
+t1281202971
+s13825936
+
+N/var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-gxfwtkebldyklpflcmrzyzbivurv/Richard_Cards_Prefix.pch.gch
+t1275718675
+s13805456
+
+NRichard_Cards-Info.plist
+c000000004C0888DC00000000000003D8
+t1275627740
+s984
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302895769#302895769#0(0"0(0#1#0"8635735360#0"0#
+
+CCompileC "build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/AddressView.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302895771.631100
+e302895771.713561
+r1
+xCompileC
+xbuild/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/AddressView.o
+x/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.m302895771#302895771#0(0"0(0#0#79"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.m8631777568#2274"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-generated-files.hmap" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-own-target-headers.hmap" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-all-target-headers.hmap" -iquote "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-project-headers.hmap" "-F/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/include" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/DerivedSources/i386" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/DerivedSources" -include /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-fmkkzkcfheknwhfeebyuwnoywnbb/Richard_Cards_Prefix.pch -c "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.m" -o "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/AddressView.o"0#
+
+CCompileC "build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/MessageView.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302895771.699584
+e302895771.784978
+r1
+xCompileC
+xbuild/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/MessageView.o
+x/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.m302895771#302895771#0(0"0(0#0#79"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.m8630547072#2274"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-generated-files.hmap" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-own-target-headers.hmap" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-all-target-headers.hmap" -iquote "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-project-headers.hmap" "-F/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/include" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/DerivedSources/i386" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/DerivedSources" -include /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-fmkkzkcfheknwhfeebyuwnoywnbb/Richard_Cards_Prefix.pch -c "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.m" -o "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/MessageView.o"0#
+
+CCompileC "build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/MyManager.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MyManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302895771.713651
+e302895771.772952
+r1
+xCompileC
+xbuild/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/MyManager.o
+x/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MyManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MyManager.m: In function '-[MyManager init]':
+o/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MyManager.m:53: warning: control reaches end of non-void function
+lSLF07#2@85"Compile /Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MyManager.m302895771#302895771#0(244"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MyManager.m: In function '-[MyManager init]':/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MyManager.m:53: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function302895771#112#132#0(6@77"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MyManager.m297491199#53#0#53#0#40"control reaches end of non-void function0(0#0#77"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MyManager.m8627112992#2270"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-generated-files.hmap" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-own-target-headers.hmap" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-all-target-headers.hmap" -iquote "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-project-headers.hmap" "-F/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/include" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/DerivedSources/i386" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/DerivedSources" -include /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-fmkkzkcfheknwhfeebyuwnoywnbb/Richard_Cards_Prefix.pch -c "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MyManager.m" -o "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/MyManager.o"0#
+
+CCompileC "build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/Richard_CardsAppDelegate.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/Richard_CardsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302895771.543929
+e302895771.631006
+r1
+xCompileC
+xbuild/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/Richard_CardsAppDelegate.o
+x/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/Richard_CardsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/Richard_CardsAppDelegate.m302895771#302895771#0(0"0(0#0#92"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/Richard_CardsAppDelegate.m8613577760#2300"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-generated-files.hmap" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-own-target-headers.hmap" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-all-target-headers.hmap" -iquote "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-project-headers.hmap" "-F/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/include" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/DerivedSources/i386" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/DerivedSources" -include /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-fmkkzkcfheknwhfeebyuwnoywnbb/Richard_Cards_Prefix.pch -c "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/Richard_CardsAppDelegate.m" -o "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/Richard_CardsAppDelegate.o"0#
+
+CCompileC "build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/RootViewController.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302895771.608934
+e302895771.699496
+r1
+xCompileC
+xbuild/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/RootViewController.o
+x/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/RootViewController.m302895771#302895771#0(0"0(0#0#86"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/RootViewController.m8635969312#2288"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-generated-files.hmap" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-own-target-headers.hmap" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-all-target-headers.hmap" -iquote "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-project-headers.hmap" "-F/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/include" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/DerivedSources/i386" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/DerivedSources" -include /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-fmkkzkcfheknwhfeebyuwnoywnbb/Richard_Cards_Prefix.pch -c "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/RootViewController.m" -o "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC "build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/main.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302895771.542954
+e302895771.608834
+r1
+xCompileC
+xbuild/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/main.o
+x/Users/Alan/Documents/Projects/RichardCards/Richard Cards/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Alan/Documents/Projects/RichardCards/Richard Cards/main.m302895771#302895771#0(0"0(0#0#64"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/main.m8625167872#2252"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-generated-files.hmap" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-own-target-headers.hmap" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-all-target-headers.hmap" -iquote "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-project-headers.hmap" "-F/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/include" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/DerivedSources/i386" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/DerivedSources" -include /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-fmkkzkcfheknwhfeebyuwnoywnbb/Richard_Cards_Prefix.pch -c "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/main.m" -o "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.xib"
+s302895769.657602
+e302895770.109123
+r1
+xCompileXIB
+x/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.xib
+lSLF07#2@34"CompileXIB Classes/AddressView.xib302895769#302895770#0(0"0(0#0#81"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.xib8628010592#649"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/AddressView.nib" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.xib"
+s302895769.663917
+e302895770.037257
+r1
+xCompileXIB
+x/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.xib
+lSLF07#2@34"CompileXIB Classes/MessageView.xib302895769#302895770#0(0"0(0#0#81"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.xib8627434944#649"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/MessageView.nib" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/MainWindow.xib"
+s302895769.268613
+e302895769.663832
+r1
+xCompileXIB
+x/Users/Alan/Documents/Projects/RichardCards/Richard Cards/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib302895769#302895769#0(0"0(0#0#72"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/MainWindow.xib8627065984#639"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/MainWindow.nib" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/RootViewController.xib"
+s302895769.269240
+e302895769.657529
+r1
+xCompileXIB
+x/Users/Alan/Documents/Projects/RichardCards/Richard Cards/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib302895769#302895769#0(0"0(0#0#80"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/RootViewController.xib8626625312#655"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/RootViewController.nib" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/RootViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/Richard Cards.app/Background.png" Images/Background.png
+s302895770.044809
+e302895770.095167
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Richard Cards.app/Background.png
+xImages/Background.png
+lSLF07#2@26"Copy Images/Background.png302895770#302895770#0(0"0(0#0#79"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/Background.png8624421280#534"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/Background.png" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Richard Cards.app/NavBar.png" Images/NavBar.png
+s302895770.042272
+e302895770.092181
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Richard Cards.app/NavBar.png
+xImages/NavBar.png
+lSLF07#2@22"Copy Images/NavBar.png302895770#302895770#0(0"0(0#0#75"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/NavBar.png8625330656#530"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/NavBar.png" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Richard Cards.app/addressLabel.png" Images/addressLabel.png
+s302895770.039974
+e302895770.086975
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Richard Cards.app/addressLabel.png
+xImages/addressLabel.png
+lSLF07#2@28"Copy Images/addressLabel.png302895770#302895770#0(0"0(0#0#81"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/addressLabel.png8635952288#536"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/addressLabel.png" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Richard Cards.app/messageLabel.png" Images/messageLabel.png
+s302895770.041415
+e302895770.087088
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Richard Cards.app/messageLabel.png
+xImages/messageLabel.png
+lSLF07#2@28"Copy Images/messageLabel.png302895770#302895770#0(0"0(0#0#81"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/messageLabel.png8625834816#536"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/messageLabel.png" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Richard Cards.app/middleRow.png" Images/middleRow.png
+s302895770.045615
+e302895770.092297
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Richard Cards.app/middleRow.png
+xImages/middleRow.png
+lSLF07#2@25"Copy Images/middleRow.png302895770#302895770#0(0"0(0#0#78"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/middleRow.png8624160320#533"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/middleRow.png" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Richard Cards.app/middleRowSelected.png" Images/middleRowSelected.png
+s302895770.087243
+e302895770.094884
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Richard Cards.app/middleRowSelected.png
+xImages/middleRowSelected.png
+lSLF07#2@33"Copy Images/middleRowSelected.png302895770#302895770#0(0"0(0#0#86"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/middleRowSelected.png8623863072#541"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/middleRowSelected.png" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Richard Cards.app/penarichard.png" Images/penarichard.png
+s302895770.043482
+e302895770.087178
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Richard Cards.app/penarichard.png
+xImages/penarichard.png
+lSLF07#2@27"Copy Images/penarichard.png302895770#302895770#0(0"0(0#0#80"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/penarichard.png8625080640#535"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/penarichard.png" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Richard Cards.app/penarichard_hilite.png" Images/penarichard_hilite.png
+s302895770.044148
+e302895770.095014
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Richard Cards.app/penarichard_hilite.png
+xImages/penarichard_hilite.png
+lSLF07#2@34"Copy Images/penarichard_hilite.png302895770#302895770#0(0"0(0#0#87"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/penarichard_hilite.png8624696384#542"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/penarichard_hilite.png" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Richard Cards.app/richardcards_main.png" Images/richardcards_main.png
+s302895770.039232
+e302895770.095443
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Richard Cards.app/richardcards_main.png
+xImages/richardcards_main.png
+lSLF07#2@33"Copy Images/richardcards_main.png302895770#302895770#0(0"0(0#0#86"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/richardcards_main.png8614260992#541"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/richardcards_main.png" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Richard Cards.app/richardcards_main_tall.png" Images/richardcards_main_tall.png
+s302895770.037376
+e302895770.096544
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Richard Cards.app/richardcards_main_tall.png
+xImages/richardcards_main_tall.png
+lSLF07#2@38"Copy Images/richardcards_main_tall.png302895770#302895770#0(0"0(0#0#91"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/richardcards_main_tall.png8619703264#546"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/richardcards_main_tall.png" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app"0#
+
+CGenerateDSYMFile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app.dSYM" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/Richard Cards"
+s302895771.896659
+e302895771.946557
+r1
+xGenerateDSYMFile
+x/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app.dSYM
+x/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/Richard Cards
+lSLF07#2@131"GenerateDSYMFile "build/Debug-iphonesimulator/Richard Cards.app.dSYM" "build/Debug-iphonesimulator/Richard Cards.app/Richard Cards"302895771#302895771#0(0"0(0#0#117"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/Richard Cards8635646080#464"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/Richard Cards" -o "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app.dSYM"0#
+
+CLd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/Richard Cards" normal i386
+s302895771.785061
+e302895771.896575
+r1
+xLd
+x/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/Richard Cards
+xnormal
+xi386
+lSLF07#2@122"Link /Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/Richard Cards302895771#302895771#0(0"0(0#0#0"8624590560#1035"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator" "-F/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator" -filelist "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Objects-normal/i386/Richard Cards.LinkFileList" -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/Richard Cards"0#
+
+CProcessInfoPlistFile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/Info.plist" Richard_Cards-Info.plist
+s302895769.263928
+e302895769.268536
+r1
+xProcessInfoPlistFile
+x/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/Info.plist
+xRichard_Cards-Info.plist
+lSLF07#2@32"Process Richard_Cards-Info.plist302895769#302895769#0(0"0(0#0#82"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Richard_Cards-Info.plist8628113344#560"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Richard_Cards-Info.plist -genpkginfo "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app/Info.plist"0#
+
+CProcessPCH /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-fclxnxvftmheuughjwavqqhawlpa/Richard_Cards_Prefix.pch.gch Richard_Cards_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297319086.035689
+e297319086.500849
+r1
+xProcessPCH
+x/var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-fclxnxvftmheuughjwavqqhawlpa/Richard_Cards_Prefix.pch.gch
+xRichard_Cards_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile Richard_Cards_Prefix.pch297319086#297319086#0(0"0(0#0#82"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Richard_Cards_Prefix.pch4300911832#2075"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-generated-files.hmap" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-own-target-headers.hmap" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-all-target-headers.hmap" -iquote "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-project-headers.hmap" "-F/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/include" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/DerivedSources/i386" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/DerivedSources" -c "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Richard_Cards_Prefix.pch" -o /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-fclxnxvftmheuughjwavqqhawlpa/Richard_Cards_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-fmkkzkcfheknwhfeebyuwnoywnbb/Richard_Cards_Prefix.pch.gch Richard_Cards_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302895770.109229
+e302895771.542820
+r1
+xProcessPCH
+x/var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-fmkkzkcfheknwhfeebyuwnoywnbb/Richard_Cards_Prefix.pch.gch
+xRichard_Cards_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile Richard_Cards_Prefix.pch302895770#302895771#0(0"0(0#0#82"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Richard_Cards_Prefix.pch8623326048#2117"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-generated-files.hmap" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-own-target-headers.hmap" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-all-target-headers.hmap" -iquote "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-project-headers.hmap" "-F/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/include" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/DerivedSources/i386" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/DerivedSources" -c "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Richard_Cards_Prefix.pch" -o /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-fmkkzkcfheknwhfeebyuwnoywnbb/Richard_Cards_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-gxfwtkebldyklpflcmrzyzbivurv/Richard_Cards_Prefix.pch.gch Richard_Cards_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297411475.147225
+e297411475.706157
+r1
+xProcessPCH
+x/var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-gxfwtkebldyklpflcmrzyzbivurv/Richard_Cards_Prefix.pch.gch
+xRichard_Cards_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile Richard_Cards_Prefix.pch297411475#297411475#0(0"0(0#0#82"/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Richard_Cards_Prefix.pch4300911832#2073"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-generated-files.hmap" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-own-target-headers.hmap" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-all-target-headers.hmap" -iquote "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/Richard Cards-project-headers.hmap" "-F/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/include" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/DerivedSources/i386" "-I/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphonesimulator/Richard Cards.build/DerivedSources" -c "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Richard_Cards_Prefix.pch" -o /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-gxfwtkebldyklpflcmrzyzbivurv/Richard_Cards_Prefix.pch.gch0#
+
+CTouch "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app"
+s302895771.946629
+e302895771.949785
+r1
+xTouch
+x/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app
+lSLF07#2@109"Touch /Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app302895771#302895771#0(0"0(0#0#0"8631774752#326"    cd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphonesimulator/Richard Cards.app"0#
+

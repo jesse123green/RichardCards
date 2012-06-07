@@ -1,0 +1,1501 @@
+TRichard Cards
+v7
+r0
+t318103941.129864
+cCheck dependencies
+cCpResource "build/Debug-iphoneos/Richard Cards.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Info.plist" Richard_Cards-Info.plist
+cCompileXIB /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/MainWindow.xib
+cCompileXIB /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/RootViewController.xib
+cCompileXIB /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.xib
+cCompileXIB /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.xib
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/richardcards_main_tall.png" Images/richardcards_main_tall.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/richardcards_main.png" Images/richardcards_main.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/addressLabel.png" Images/addressLabel.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/messageLabel.png" Images/messageLabel.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/NavBar.png" Images/NavBar.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/penarichard.png" Images/penarichard.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/penarichard_hilite.png" Images/penarichard_hilite.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Background.png" Images/Background.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/middleRow.png" Images/middleRow.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/middleRowSelected.png" Images/middleRowSelected.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/text_row_BG.png" Images/text_row_BG.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/text_row_BG@2x.png" Images/text_row_BG@2x.png
+cCompileXIB /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.xib
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/key.png" Images/key.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/key-selected.png" Images/key-selected.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/rc_main.png" Images/rc_main.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/rc_main@2x.png" Images/rc_main@2x.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_normal.png" Images/btn_newrichard_normal.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_normal@2x.png" Images/btn_newrichard_normal@2x.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_selected.png" Images/btn_newrichard_selected.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_selected@2x.png" Images/btn_newrichard_selected@2x.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/NavBar@2x.png" Images/NavBar@2x.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_normal.png" Images/change_approach_normal.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_normal@2x.png" Images/change_approach_normal@2x.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_selected.png" Images/change_approach_selected.png
+cCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_selected@2x.png" Images/change_approach_selected@2x.png
+cCompileXIB /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.xib
+cProcessPCH /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-cchupsukntjxldarhpclxfmnsstj/Richard_Cards_Prefix.pch.gch Richard_Cards_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/main.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/Richard_CardsAppDelegate.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/Richard_CardsAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/RootViewController.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/AddressView.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MessageView.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MyManager.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MyManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/SummaryView.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MessageIntroView.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Richard Cards" normal armv6
+cGenerateDSYMFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app.dSYM" "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Richard Cards"
+cProcessProductPackaging "/Users/Alan/Library/MobileDevice/Provisioning Profiles/453C4EF5-C056-40ED-8AC7-FF740C2F8A51.mobileprovision" "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/embedded.mobileprovision"
+cTouch "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards.xcent"
+cCodeSign "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004C059C0E0000000000000110
+t1275436046
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004B9F103D00000000000001E5
+t1268715581
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AC100000000003B4B70
+t1268792001
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F26D2000000000036A650
+t1268721362
+s3581520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F26B90000000000001355
+t1268721337
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B9F318D000000000000098F
+t1268724109
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B9F32090000000002703230
+t1268724233
+s40907312
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/Availability.h
+c000000004B9F27C60000000000001A1A
+t1268721606
+s6682
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.h
+c000000004C0885A400000000000000D3
+t1275626916
+s211
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.m
+c000000004C0EFC330000000000000978
+t1276050483
+s2424
+i"AddressView.h"
+i"MyManager.h"
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.xib
+c000000004C10444C00000000000056BF
+t1276134476
+s22207
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.h
+c000000004C0DBA2C00000000000001A1
+t1275968044
+s417
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.m
+c000000004C0EFA0F000000000000179F
+t1276049935
+s6047
+i"MessageView.h"
+i"AddressView.h"
+i"MyManager.h"
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.xib
+c000000004C088CF30000000000004D78
+t1275628787
+s19832
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MyManager.h
+c000000004C0B2349000000000000013F
+t1275798345
+s319
+i<Foundation/Foundation.h>
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MyManager.m
+c000000004C0B237F0000000000000454
+t1275798399
+s1108
+i"MyManager.h"
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/Richard_CardsAppDelegate.h
+c000000004C08832700000000000001D8
+t1275626279
+s472
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/Richard_CardsAppDelegate.m
+c000000004C09DF7A0000000000000A28
+t1275715450
+s2600
+i"Richard_CardsAppDelegate.h"
+i"RootViewController.h"
+i"MessageView.h"
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/RootViewController.h
+c000000004C0DBA820000000000000124
+t1275968130
+s292
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/RootViewController.m
+c000000004C0DBAA80000000000001841
+t1275968168
+s6209
+i"RootViewController.h"
+i"MessageView.h"
+i"AddressView.h"
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/Background.png
+c000000004C05B874000000000001FC9A
+t1275443316
+s130202
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/NavBar.png
+c000000004C05C2800000000000003EFA
+t1275445888
+s16122
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/addressLabel.png
+c000000004C070F96000000000000149A
+t1275531158
+s5274
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/messageLabel.png
+c000000004C06DFE50000000000000FBE
+t1275518949
+s4030
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/middleRow.png
+c000000004C05EDA40000000000000574
+t1275456932
+s1396
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/middleRowSelected.png
+c000000004C05EDAF000000000000075E
+t1275456943
+s1886
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/penarichard.png
+c000000004C0714B6000000000000212B
+t1275532470
+s8491
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/penarichard_hilite.png
+c000000004C07183100000000000017F6
+t1275533361
+s6134
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/richardcards_main.png
+c000000004C07120B000000000002B039
+t1275531787
+s176185
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Images/richardcards_main_tall.png
+c000000004C073432000000000002C4F5
+t1275540530
+s181493
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/MainWindow.xib
+c000000004C0883270000000000002F58
+t1275626279
+s12120
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Richard_Cards_Prefix.pch
+c000000004C088327000000000000014C
+t1275626279
+s332
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/RootViewController.xib
+c000000004C0883270000000000004458
+t1275626279
+s17496
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app.dSYM
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/AddressView.nib
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/Background.png
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/Info.plist
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/MainWindow.nib
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/MessageView.nib
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/NavBar.png
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/PkgInfo
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/ResourceRules.plist
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/Richard Cards
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/RootViewController.nib
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/addressLabel.png
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/messageLabel.png
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/middleRow.png
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/middleRowSelected.png
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/penarichard.png
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/penarichard_hilite.png
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/richardcards_main.png
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/richardcards_main_tall.png
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/AddressView.o
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MessageView.o
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MyManager.o
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/Richard Cards
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/Richard Cards.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/Richard_CardsAppDelegate.o
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv7/AddressView.o
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv7/MessageView.o
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv7/MyManager.o
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv7/Richard Cards
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv7/Richard Cards.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv7/Richard_CardsAppDelegate.o
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv7/RootViewController.o
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/Alan/Documents/Projects/RichardCards/Richard Cards/main.m
+c000000004C0883270000000000000162
+t1275626279
+s354
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.h
+c000000004D38B87400000000000003E0
+t1295562868
+s992
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m
+c000000004D41B9990000000000001989
+t1296152985
+s6537
+i"AddressView.h"
+i"SummaryView.h"
+i"MyManager.h"
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.xib
+c000000004D3C97E50000000000006E5E
+t1295816677
+s28254
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.h
+c000000004D3C9FBE00000000000000DE
+t1295818686
+s222
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.m
+c000000004D3C9FBE00000000000005A0
+t1295818686
+s1440
+i"MessageIntroView.h"
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.xib
+c000000004D3CA1C20000000000003404
+t1295819202
+s13316
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.h
+c000000004D3CA00800000000000001BB
+t1295818760
+s443
+i<UIKit/UIKit.h>
+i"MessageIntroView.h"
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.m
+c000000004D4250260000000000001FD0
+t1296191526
+s8144
+i"MessageView.h"
+i"AddressView.h"
+i"MyManager.h"
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.xib
+c000000004D424E0C000000000000652D
+t1296190988
+s25901
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MyManager.h
+c000000004D327CD600000000000002EF
+t1295154390
+s751
+i<Foundation/Foundation.h>
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MyManager.m
+c000000004D327D6400000000000004DA
+t1295154532
+s1242
+i"MyManager.h"
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/Richard_CardsAppDelegate.h
+c000000004C08832700000000000001D8
+t1275626279
+s472
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/Richard_CardsAppDelegate.m
+c000000004D420C400000000000000A88
+t1296174144
+s2696
+i"Richard_CardsAppDelegate.h"
+i"RootViewController.h"
+i"MessageView.h"
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/RootViewController.h
+c000000004D421E5C0000000000000269
+t1296178780
+s617
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/RootViewController.m
+c000000004D424A6D0000000000001908
+t1296190061
+s6408
+i"RootViewController.h"
+i"MessageView.h"
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.h
+c000000004D3386DF0000000000000176
+t1295222495
+s374
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.m
+c000000004D33ACEC0000000000000C2A
+t1295232236
+s3114
+i"SummaryView.h"
+i"MyManager.h"
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.xib
+c000000004D339CD3000000000000615B
+t1295228115
+s24923
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/Background.png
+c000000004C05B874000000000001FC9A
+t1275443316
+s130202
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/NavBar.png
+c000000004D421F0E0000000000002BB8
+t1296178958
+s11192
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/NavBar@2x.png
+c000000004D3F9AD500000000000095AA
+t1296014037
+s38314
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/addressLabel.png
+c000000004C070F96000000000000149A
+t1275531158
+s5274
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/btn_newrichard_normal.png
+c000000004D386CF80000000000001027
+t1295543544
+s4135
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/btn_newrichard_normal@2x.png
+c000000004D37D6270000000000001EFD
+t1295504935
+s7933
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/btn_newrichard_selected.png
+c000000004D386D130000000000000F54
+t1295543571
+s3924
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/btn_newrichard_selected@2x.png
+c000000004D37D6340000000000001D8B
+t1295504948
+s7563
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/change_approach_normal.png
+c000000004D390098000000000000187E
+t1295581336
+s6270
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/change_approach_normal@2x.png
+c000000004D3902B50000000000004A0B
+t1295581877
+s18955
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/change_approach_selected.png
+c000000004D3900CA0000000000001798
+t1295581386
+s6040
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/change_approach_selected@2x.png
+c000000004D39028F0000000000004460
+t1295581839
+s17504
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/key-selected.png
+c000000004D37B3B800000000000005D4
+t1295496120
+s1492
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/key.png
+c000000004C6DCDF700000000000002B4
+t1282264567
+s692
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/messageLabel.png
+c000000004C06DFE50000000000000FBE
+t1275518949
+s4030
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/middleRow.png
+c000000004C05EDA40000000000000574
+t1275456932
+s1396
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/middleRowSelected.png
+c000000004C05EDAF000000000000075E
+t1275456943
+s1886
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/penarichard.png
+c000000004C0714B6000000000000212B
+t1275532470
+s8491
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/penarichard_hilite.png
+c000000004C07183100000000000017F6
+t1275533361
+s6134
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/rc_main.png
+c000000004D386C64000000000002533D
+t1295543396
+s152381
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/rc_main@2x.png
+c000000004D386D8F000000000009B676
+t1295543695
+s636534
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/richardcards_main.png
+c000000004C07120B000000000002B039
+t1275531787
+s176185
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/richardcards_main_tall.png
+c000000004C073432000000000002C4F5
+t1275540530
+s181493
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/text_row_BG.png
+c000000004C5F68B40000000000000464
+t1281321140
+s1124
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/text_row_BG@2x.png
+c000000004C5F687400000000000004ED
+t1281321076
+s1261
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/MainWindow.xib
+c000000004C0883270000000000002F58
+t1275626279
+s12120
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Richard_Cards_Prefix.pch
+c000000004C088327000000000000014C
+t1275626279
+s332
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/RootViewController.xib
+c000000004D421E5500000000000042AB
+t1296178773
+s17067
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app
+t1296191577
+s1360
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app.dSYM
+t1296191557
+s102
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/AddressView.nib
+t1296171788
+s5108
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Background.png
+t1296171792
+s131487
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Info.plist
+t1296171787
+s867
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/MainWindow.nib
+t1296171788
+s2462
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/MessageIntroView.nib
+t1296171793
+s3299
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/MessageView.nib
+t1296191557
+s4438
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/NavBar.png
+t1296179034
+s9096
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/NavBar@2x.png
+t1296171792
+s24111
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/PkgInfo
+t1296171787
+s8
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/ResourceRules.plist
+t1296171787
+s485
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Richard Cards
+t1296191557
+s59392
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/RootViewController.nib
+t1296179035
+s1734
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/SummaryView.nib
+t1296171791
+s3778
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/addressLabel.png
+t1296171790
+s5021
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_normal.png
+t1296171792
+s4307
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_normal@2x.png
+t1296171792
+s8611
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_selected.png
+t1296171792
+s3945
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_selected@2x.png
+t1296171792
+s8173
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_normal.png
+t1296171792
+s6421
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_normal@2x.png
+t1296171793
+s18223
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_selected.png
+t1296171793
+s6120
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_selected@2x.png
+t1296171793
+s16774
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/embedded.mobileprovision
+t1296171796
+s7209
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/key-selected.png
+t1296171791
+s1677
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/key.png
+t1296171791
+s958
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/messageLabel.png
+t1296171790
+s3646
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/middleRow.png
+t1296171790
+s1446
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/middleRowSelected.png
+t1296171790
+s1916
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/penarichard.png
+t1296171790
+s8639
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/penarichard_hilite.png
+t1296171790
+s6279
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/rc_main.png
+t1296171791
+s162484
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/rc_main@2x.png
+t1296171794
+s677388
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/richardcards_main.png
+t1296171790
+s180150
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/richardcards_main_tall.png
+t1296171790
+s185948
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/text_row_BG.png
+t1296171790
+s1144
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/text_row_BG@2x.png
+t1296171790
+s1329
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/AddressView.o
+t1296171795
+s67928
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MessageIntroView.o
+t1296171795
+s37556
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MessageView.o
+t1296191557
+s61912
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MyManager.o
+t1296171795
+s19180
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/Richard Cards.LinkFileList
+c000000004D42030B0000000000000500
+t1296171787
+s1280
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/Richard_CardsAppDelegate.o
+t1296179035
+s55632
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/RootViewController.o
+t1296191557
+s43776
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/SummaryView.o
+t1296171795
+s46900
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/main.o
+t1296171795
+s6492
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards.xcent
+t1296171796
+s430
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/main.m
+c000000004C0883270000000000000162
+t1275626279
+s354
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Library/MobileDevice/Provisioning Profiles/453C4EF5-C056-40ED-8AC7-FF740C2F8A51.mobileprovision
+c000000004D41C0860000000000001C29
+t1296154758
+s7209
+
+N/Users/Alan/Library/MobileDevice/Provisioning Profiles/D44A5604-E000-44BC-9F3E-852CA9D6BA68.mobileprovision
+c000000004D41C0AC0000000000001C15
+t1296154796
+s7189
+
+N/var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-bsaxjhkdceifwwdpiqftozaubnym/Richard_Cards_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-ccexgfywenachgdzuuktyyaderxy/Richard_Cards_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-cchupsukntjxldarhpclxfmnsstj/Richard_Cards_Prefix.pch.gch
+t1296171795
+s10000088
+
+NRichard_Cards-Info.plist
+c000000004D41B6AA00000000000003C3
+t1296152234
+s963
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318103940#318103940#0(0"0(0#1#0"8627378400#0"0#
+
+CCodeSign "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app"
+s318103940.500895
+e318103941.129830
+r1
+xCodeSign
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app
+o/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app: replacing existing signature
+lSLF07#2@49"CodeSign "build/Debug-iphoneos/Richard Cards.app"318103940#318103941#0(131"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app: replacing existing signature0(0#0#100"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app8629685920#781"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Patrick Dickinson (BGV9Y8Y45K)" "--resource-rules=/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/ResourceRules.plist" --entitlements "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards.xcent" "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app"0#
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/AddressView.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/AddressView.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317864595.499616
+e317864595.672847
+r1
+xCompileC
+xbuild/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/AddressView.o
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m: In function '-[AddressView textFieldDidBeginEditing:]':
+o/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m:192: warning: 'AddressView' may not respond to '-scrollViewToCenterOfScreen:'
+o/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m:192: warning: (Messages without a matching method signature
+o/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m:192: warning: will be assumed to return 'id' and accept
+o/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m:192: warning: '...' as arguments.)
+lSLF07#2@91"Compile /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m317864595#317864595#0(706"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m: In function '-[AddressView textFieldDidBeginEditing:]':/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m:192: warning: 'AddressView' may not respond to '-scrollViewToCenterOfScreen:'/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m:192: warning: (Messages without a matching method signature/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m:192: warning: will be assumed to return 'id' and accept/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m:192: warning: '...' as arguments.)2(22@63"'AddressView' may not respond to '-scrollViewToCenterOfScreen:'317864595#141#162#0(6@83"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m317845785#192#0#192#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)317864595#303#144#0(6@83"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m317845785#192#0#192#0#0"0(0#0#83"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m8602343296#2135"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-generated-files.hmap" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-own-target-headers.hmap" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-all-target-headers.hmap" -iquote "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-project-headers.hmap" -F/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos -I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/include "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/DerivedSources/armv6" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/DerivedSources" -include /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-cchupsukntjxldarhpclxfmnsstj/Richard_Cards_Prefix.pch -c /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m -o "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/AddressView.o"0#
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MessageIntroView.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317864595.780107
+e317864595.842756
+r1
+xCompileC
+xbuild/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MessageIntroView.o
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.m317864595#317864595#0(0"0(0#0#88"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.m8607664320#2145"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-generated-files.hmap" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-own-target-headers.hmap" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-all-target-headers.hmap" -iquote "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-project-headers.hmap" -F/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos -I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/include "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/DerivedSources/armv6" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/DerivedSources" -include /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-cchupsukntjxldarhpclxfmnsstj/Richard_Cards_Prefix.pch -c /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.m -o "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MessageIntroView.o"0#
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MessageView.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MessageView.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317884357.280415
+e317884357.703690
+r1
+xCompileC
+xbuild/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MessageView.o
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.m317884357#317884357#0(0"0(0#0#83"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.m8623333280#2135"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-generated-files.hmap" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-own-target-headers.hmap" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-all-target-headers.hmap" -iquote "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-project-headers.hmap" -F/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos -I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/include "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/DerivedSources/armv6" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/DerivedSources" -include /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-cchupsukntjxldarhpclxfmnsstj/Richard_Cards_Prefix.pch -c /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.m -o "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MessageView.o"0#
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MyManager.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MyManager.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MyManager.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MyManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317864595.672930
+e317864595.780029
+r1
+xCompileC
+xbuild/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MyManager.o
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MyManager.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MyManager.m: In function '-[MyManager init]':
+o/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MyManager.m:59: warning: control reaches end of non-void function
+lSLF07#2@89"Compile /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MyManager.m317864595#317864595#0(252"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MyManager.m: In function '-[MyManager init]':/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MyManager.m:59: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function317864595#116#136#0(6@81"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MyManager.m316847332#59#0#59#0#40"control reaches end of non-void function0(0#0#81"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MyManager.m8610461760#2131"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-generated-files.hmap" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-own-target-headers.hmap" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-all-target-headers.hmap" -iquote "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-project-headers.hmap" -F/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos -I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/include "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/DerivedSources/armv6" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/DerivedSources" -include /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-cchupsukntjxldarhpclxfmnsstj/Richard_Cards_Prefix.pch -c /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MyManager.m -o "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/MyManager.o"0#
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/Richard_CardsAppDelegate.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/Richard_CardsAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/Richard_CardsAppDelegate.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/Richard_CardsAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317871835.124477
+e317871835.276959
+r1
+xCompileC
+xbuild/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/Richard_CardsAppDelegate.o
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/Richard_CardsAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/Richard_CardsAppDelegate.m317871835#317871835#0(0"0(0#0#96"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/Richard_CardsAppDelegate.m8612430784#2161"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-generated-files.hmap" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-own-target-headers.hmap" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-all-target-headers.hmap" -iquote "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-project-headers.hmap" -F/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos -I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/include "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/DerivedSources/armv6" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/DerivedSources" -include /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-cchupsukntjxldarhpclxfmnsstj/Richard_Cards_Prefix.pch -c /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/Richard_CardsAppDelegate.m -o "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/Richard_CardsAppDelegate.o"0#
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/RootViewController.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/RootViewController.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317884357.279464
+e317884357.655654
+r1
+xCompileC
+xbuild/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/RootViewController.o
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/RootViewController.m317884357#317884357#0(0"0(0#0#90"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/RootViewController.m8621701248#2149"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-generated-files.hmap" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-own-target-headers.hmap" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-all-target-headers.hmap" -iquote "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-project-headers.hmap" -F/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos -I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/include "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/DerivedSources/armv6" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/DerivedSources" -include /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-cchupsukntjxldarhpclxfmnsstj/Richard_Cards_Prefix.pch -c /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/RootViewController.m -o "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/RootViewController.o"0#
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/SummaryView.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317864595.675119
+e317864595.806618
+r1
+xCompileC
+xbuild/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/SummaryView.o
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.m:110: warning: property 'lineName' requires method '-lineName' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.m:110: warning: property 'lineName' requires the method 'setLineName:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@91"Compile /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.m317864595#317864595#0(453"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.m:110: warning: property 'lineName' requires method '-lineName' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.m:110: warning: property 'lineName' requires the method 'setLineName:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@124"Property 'lineName' requires method '-lineName' to be defined - use @synthesize, @dynamic or provide a method implementation317864595#0#223#0(6@83"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.m316925036#110#0#110#0#0"0(22@131"Property 'lineName' requires the method 'setLineName:' to be defined - use @synthesize, @dynamic or provide a method implementation317864595#223#230#0(6@83"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.m316925036#110#0#110#0#0"0(0#0#83"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.m8609731200#2135"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-generated-files.hmap" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-own-target-headers.hmap" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-all-target-headers.hmap" -iquote "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-project-headers.hmap" -F/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos -I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/include "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/DerivedSources/armv6" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/DerivedSources" -include /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-cchupsukntjxldarhpclxfmnsstj/Richard_Cards_Prefix.pch -c /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.m -o "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/SummaryView.o"0#
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/main.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/main.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317864595.316268
+e317864595.432433
+r1
+xCompileC
+xbuild/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/main.o
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/main.m317864595#317864595#0(0"0(0#0#68"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/main.m8607730688#2113"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-generated-files.hmap" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-own-target-headers.hmap" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-all-target-headers.hmap" -iquote "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-project-headers.hmap" -F/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos -I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/include "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/DerivedSources/armv6" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/DerivedSources" -include /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-cchupsukntjxldarhpclxfmnsstj/Richard_Cards_Prefix.pch -c /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/main.m -o "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/main.o"0#
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv7/AddressView.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv7/MessageView.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv7/MyManager.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MyManager.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv7/Richard_CardsAppDelegate.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/Richard_CardsAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv7/RootViewController.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv7/main.o" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/AddressView.xib"
+r0
+
+CCompileXIB "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/Classes/MessageView.xib"
+r0
+
+CCompileXIB "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/RootViewController.xib"
+r0
+
+CCompileXIB /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.xib
+s317864588.468048
+e317864589.022206
+r1
+xCompileXIB
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.xib
+lSLF07#2@34"CompileXIB Classes/AddressView.xib317864588#317864589#0(0"0(0#0#85"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.xib8594676608#631"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/AddressView.nib" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.xib
+s317864593.432813
+e317864593.894565
+r1
+xCompileXIB
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.xib
+lSLF07#2@39"CompileXIB Classes/MessageIntroView.xib317864593#317864593#0(0"0(0#0#90"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.xib8603228640#641"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/MessageIntroView.nib" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.xib
+s317884356.507287
+e317884357.279128
+r1
+xCompileXIB
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.xib
+lSLF07#2@34"CompileXIB Classes/MessageView.xib317884356#317884357#0(0"0(0#0#85"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.xib8622238720#631"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/MessageView.nib" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.xib
+s317864590.616023
+e317864591.086192
+r1
+xCompileXIB
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.xib
+lSLF07#2@34"CompileXIB Classes/SummaryView.xib317864590#317864591#0(0"0(0#0#85"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.xib8609032704#631"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/SummaryView.nib" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/MainWindow.xib
+s317864587.845933
+e317864588.532648
+r1
+xCompileXIB
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib317864587#317864588#0(0"0(0#0#76"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/MainWindow.xib8609723488#621"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/MainWindow.nib" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/RootViewController.xib
+s317871834.449464
+e317871835.124218
+r1
+xCompileXIB
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib317871834#317871835#0(0"0(0#0#84"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/RootViewController.xib8615471136#637"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/RootViewController.nib" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/RootViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/Background.png" Images/Background.png
+r0
+
+CCopyPNGFile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/NavBar.png" Images/NavBar.png
+r0
+
+CCopyPNGFile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/addressLabel.png" Images/addressLabel.png
+r0
+
+CCopyPNGFile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/messageLabel.png" Images/messageLabel.png
+r0
+
+CCopyPNGFile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/middleRow.png" Images/middleRow.png
+r0
+
+CCopyPNGFile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/middleRowSelected.png" Images/middleRowSelected.png
+r0
+
+CCopyPNGFile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/penarichard.png" Images/penarichard.png
+r0
+
+CCopyPNGFile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/penarichard_hilite.png" Images/penarichard_hilite.png
+r0
+
+CCopyPNGFile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/richardcards_main.png" Images/richardcards_main.png
+r0
+
+CCopyPNGFile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/richardcards_main_tall.png" Images/richardcards_main_tall.png
+r0
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Background.png" Images/Background.png
+s317864590.422691
+e317864592.015062
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Background.png
+xImages/Background.png
+lSLF07#2@89"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/Background.png" Images/Background.png317864590#317864592#0(0"0(0#0#83"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/Background.png8610502656#652"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/Background.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Background.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/NavBar.png" Images/NavBar.png
+s317871834.450552
+e317871834.738047
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/NavBar.png
+xImages/NavBar.png
+lSLF07#2@81"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/NavBar.png" Images/NavBar.png317871834#317871834#0(0"0(0#0#79"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/NavBar.png8613837792#644"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/NavBar.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/NavBar.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/NavBar@2x.png" Images/NavBar@2x.png
+s317864592.503278
+e317864592.824455
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/NavBar@2x.png
+xImages/NavBar@2x.png
+lSLF07#2@87"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/NavBar@2x.png" Images/NavBar@2x.png317864592#317864592#0(0"0(0#0#82"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/NavBar@2x.png8604201792#650"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/NavBar@2x.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/NavBar@2x.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/addressLabel.png" Images/addressLabel.png
+s317864590.178494
+e317864590.234713
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/addressLabel.png
+xImages/addressLabel.png
+lSLF07#2@93"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/addressLabel.png" Images/addressLabel.png317864590#317864590#0(0"0(0#0#85"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/addressLabel.png8609196096#656"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/addressLabel.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/addressLabel.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_normal.png" Images/btn_newrichard_normal.png
+s317864592.015138
+e317864592.115643
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_normal.png
+xImages/btn_newrichard_normal.png
+lSLF07#2@111"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/btn_newrichard_normal.png" Images/btn_newrichard_normal.png317864592#317864592#0(0"0(0#0#94"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/btn_newrichard_normal.png8606227744#674"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/btn_newrichard_normal.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_normal.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_normal@2x.png" Images/btn_newrichard_normal@2x.png
+s317864592.115719
+e317864592.279476
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_normal@2x.png
+xImages/btn_newrichard_normal@2x.png
+lSLF07#2@117"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/btn_newrichard_normal@2x.png" Images/btn_newrichard_normal@2x.png317864592#317864592#0(0"0(0#0#97"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/btn_newrichard_normal@2x.png8606048000#680"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/btn_newrichard_normal@2x.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_normal@2x.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_selected.png" Images/btn_newrichard_selected.png
+s317864592.279560
+e317864592.384345
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_selected.png
+xImages/btn_newrichard_selected.png
+lSLF07#2@115"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/btn_newrichard_selected.png" Images/btn_newrichard_selected.png317864592#317864592#0(0"0(0#0#96"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/btn_newrichard_selected.png8605799616#678"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/btn_newrichard_selected.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_selected.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_selected@2x.png" Images/btn_newrichard_selected@2x.png
+s317864592.384427
+e317864592.503195
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_selected@2x.png
+xImages/btn_newrichard_selected@2x.png
+lSLF07#2@121"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/btn_newrichard_selected@2x.png" Images/btn_newrichard_selected@2x.png317864592#317864592#0(0"0(0#0#99"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/btn_newrichard_selected@2x.png8605733664#684"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/btn_newrichard_selected@2x.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/btn_newrichard_selected@2x.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_normal.png" Images/change_approach_normal.png
+s317864592.824544
+e317864592.925976
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_normal.png
+xImages/change_approach_normal.png
+lSLF07#2@113"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/change_approach_normal.png" Images/change_approach_normal.png317864592#317864592#0(0"0(0#0#95"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/change_approach_normal.png8604017888#676"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/change_approach_normal.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_normal.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_normal@2x.png" Images/change_approach_normal@2x.png
+s317864592.926057
+e317864593.140115
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_normal@2x.png
+xImages/change_approach_normal@2x.png
+lSLF07#2@119"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/change_approach_normal@2x.png" Images/change_approach_normal@2x.png317864592#317864593#0(0"0(0#0#98"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/change_approach_normal@2x.png8603764928#682"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/change_approach_normal@2x.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_normal@2x.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_selected.png" Images/change_approach_selected.png
+s317864593.140199
+e317864593.209493
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_selected.png
+xImages/change_approach_selected.png
+lSLF07#2@117"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/change_approach_selected.png" Images/change_approach_selected.png317864593#317864593#0(0"0(0#0#97"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/change_approach_selected.png8603616768#680"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/change_approach_selected.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_selected.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_selected@2x.png" Images/change_approach_selected@2x.png
+s317864593.209589
+e317864593.432736
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_selected@2x.png
+xImages/change_approach_selected@2x.png
+lSLF07#2@123"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/change_approach_selected@2x.png" Images/change_approach_selected@2x.png317864593#317864593#0(0"0(0#0#100"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/change_approach_selected@2x.png8603428928#686"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/change_approach_selected@2x.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/change_approach_selected@2x.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/key-selected.png" Images/key-selected.png
+s317864591.124349
+e317864591.160053
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/key-selected.png
+xImages/key-selected.png
+lSLF07#2@93"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/key-selected.png" Images/key-selected.png317864591#317864591#0(0"0(0#0#85"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/key-selected.png8607323840#656"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/key-selected.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/key-selected.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/key.png" Images/key.png
+s317864591.086278
+e317864591.124271
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/key.png
+xImages/key.png
+lSLF07#2@75"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/key.png" Images/key.png317864591#317864591#0(0"0(0#0#76"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/key.png8607718816#638"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/key.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/key.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/messageLabel.png" Images/messageLabel.png
+s317864590.234795
+e317864590.292717
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/messageLabel.png
+xImages/messageLabel.png
+lSLF07#2@93"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/messageLabel.png" Images/messageLabel.png317864590#317864590#0(0"0(0#0#85"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/messageLabel.png8605821376#656"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/messageLabel.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/messageLabel.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/middleRow.png" Images/middleRow.png
+s317864590.433794
+e317864590.479081
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/middleRow.png
+xImages/middleRow.png
+lSLF07#2@87"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/middleRow.png" Images/middleRow.png317864590#317864590#0(0"0(0#0#82"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/middleRow.png8610252480#650"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/middleRow.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/middleRow.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/middleRowSelected.png" Images/middleRowSelected.png
+s317864590.479158
+e317864590.536285
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/middleRowSelected.png
+xImages/middleRowSelected.png
+lSLF07#2@103"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/middleRowSelected.png" Images/middleRowSelected.png317864590#317864590#0(0"0(0#0#90"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/middleRowSelected.png8609997888#666"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/middleRowSelected.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/middleRowSelected.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/penarichard.png" Images/penarichard.png
+s317864590.292800
+e317864590.383384
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/penarichard.png
+xImages/penarichard.png
+lSLF07#2@91"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/penarichard.png" Images/penarichard.png317864590#317864590#0(0"0(0#0#84"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/penarichard.png8611265728#654"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/penarichard.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/penarichard.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/penarichard_hilite.png" Images/penarichard_hilite.png
+s317864590.383472
+e317864590.433711
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/penarichard_hilite.png
+xImages/penarichard_hilite.png
+lSLF07#2@105"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/penarichard_hilite.png" Images/penarichard_hilite.png317864590#317864590#0(0"0(0#0#91"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/penarichard_hilite.png8610970784#668"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/penarichard_hilite.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/penarichard_hilite.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/rc_main.png" Images/rc_main.png
+s317864591.160152
+e317864591.940953
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/rc_main.png
+xImages/rc_main.png
+lSLF07#2@83"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/rc_main.png" Images/rc_main.png317864591#317864591#0(0"0(0#0#80"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/rc_main.png8606865728#646"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/rc_main.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/rc_main.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/rc_main@2x.png" Images/rc_main@2x.png
+s317864591.941088
+e317864594.690145
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/rc_main@2x.png
+xImages/rc_main@2x.png
+lSLF07#2@89"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/rc_main@2x.png" Images/rc_main@2x.png317864591#317864594#0(0"0(0#0#83"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/rc_main@2x.png8606394560#652"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/rc_main@2x.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/rc_main@2x.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/richardcards_main.png" Images/richardcards_main.png
+s317864589.143815
+e317864590.178372
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/richardcards_main.png
+xImages/richardcards_main.png
+lSLF07#2@103"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/richardcards_main.png" Images/richardcards_main.png317864589#317864590#0(0"0(0#0#90"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/richardcards_main.png8609353984#666"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/richardcards_main.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/richardcards_main.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/richardcards_main_tall.png" Images/richardcards_main_tall.png
+s317864589.022298
+e317864590.280055
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/richardcards_main_tall.png
+xImages/richardcards_main_tall.png
+lSLF07#2@113"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/richardcards_main_tall.png" Images/richardcards_main_tall.png317864589#317864590#0(0"0(0#0#95"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/richardcards_main_tall.png8603459360#676"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/richardcards_main_tall.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/richardcards_main_tall.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/text_row_BG.png" Images/text_row_BG.png
+s317864590.536371
+e317864590.558453
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/text_row_BG.png
+xImages/text_row_BG.png
+lSLF07#2@91"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/text_row_BG.png" Images/text_row_BG.png317864590#317864590#0(0"0(0#0#84"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/text_row_BG.png8609729216#654"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/text_row_BG.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/text_row_BG.png"0#
+
+CCopyPNGFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/text_row_BG@2x.png" Images/text_row_BG@2x.png
+s317864590.558535
+e317864590.615946
+r1
+xCopyPNGFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/text_row_BG@2x.png
+xImages/text_row_BG@2x.png
+lSLF07#2@97"CopyPNGFile "build/Debug-iphoneos/Richard Cards.app/text_row_BG@2x.png" Images/text_row_BG@2x.png317864590#317864590#0(0"0(0#0#87"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/text_row_BG@2x.png8609281376#660"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/text_row_BG@2x.png "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/text_row_BG@2x.png"0#
+
+CCpResource "build/Debug-iphoneos/Richard Cards.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+r0
+
+CCpResource "build/Debug-iphoneos/Richard Cards.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s317864587.763703
+e317864587.845859
+r1
+xCpResource
+xbuild/Debug-iphoneos/Richard Cards.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist317864587#317864587#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8607345376#548"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app"0#
+
+CCreateUniversalBinary "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/Richard Cards" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app.dSYM" "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/Richard Cards"
+r0
+
+CGenerateDSYMFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app.dSYM" "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Richard Cards"
+s317884357.821418
+e317884357.873387
+r1
+xGenerateDSYMFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app.dSYM
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Richard Cards
+lSLF07#2@117"GenerateDSYMFile "build/Debug-iphoneos/Richard Cards.app.dSYM" "build/Debug-iphoneos/Richard Cards.app/Richard Cards"317884357#317884357#0(0"0(0#0#114"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Richard Cards8621772224#453"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Richard Cards" -o "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app.dSYM"0#
+
+CLd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/Richard Cards" normal armv6
+r0
+
+CLd "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv7/Richard Cards" normal armv7
+r0
+
+CLd "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Richard Cards" normal armv6
+s317884357.703767
+e317884357.821332
+r1
+xLd
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Richard Cards
+xnormal
+xarmv6
+lSLF07#2@119"Link /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Richard Cards317884357#317884357#0(0"0(0#0#0"8622426464#975"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos -F/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos -filelist "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Objects-normal/armv6/Richard Cards.LinkFileList" -dead_strip -miphoneos-version-min=3.2.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Richard Cards"0#
+
+CProcessInfoPlistFile "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app/Info.plist" Richard_Cards-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Info.plist" Richard_Cards-Info.plist
+s317864587.765722
+e317864587.786115
+r1
+xProcessInfoPlistFile
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Info.plist
+xRichard_Cards-Info.plist
+lSLF07#2@32"Process Richard_Cards-Info.plist317864587#317864587#0(0"0(0#0#86"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Richard_Cards-Info.plist8610005920#684"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Richard_Cards-Info.plist -genpkginfo "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/ResourceRules.plist" -o "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/Info.plist"0#
+
+CProcessPCH /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-bsaxjhkdceifwwdpiqftozaubnym/Richard_Cards_Prefix.pch.gch Richard_Cards_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-ccexgfywenachgdzuuktyyaderxy/Richard_Cards_Prefix.pch.gch Richard_Cards_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-cchupsukntjxldarhpclxfmnsstj/Richard_Cards_Prefix.pch.gch Richard_Cards_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317864594.690243
+e317864595.316178
+r1
+xProcessPCH
+x/var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-cchupsukntjxldarhpclxfmnsstj/Richard_Cards_Prefix.pch.gch
+xRichard_Cards_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile Richard_Cards_Prefix.pch317864594#317864595#0(0"0(0#0#86"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Richard_Cards_Prefix.pch8610665152#1980"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2.2 -iquote "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-generated-files.hmap" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-own-target-headers.hmap" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-all-target-headers.hmap" -iquote "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards-project-headers.hmap" -F/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos -I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/include "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/DerivedSources/armv6" "-I/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/DerivedSources" -c /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Richard_Cards_Prefix.pch -o /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-cchupsukntjxldarhpclxfmnsstj/Richard_Cards_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/Alan/Library/MobileDevice/Provisioning Profiles/453C4EF5-C056-40ED-8AC7-FF740C2F8A51.mobileprovision" "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/embedded.mobileprovision"
+s317864596.188061
+e317864596.226100
+r1
+xProcessProductPackaging
+x/Users/Alan/Library/MobileDevice/Provisioning Profiles/453C4EF5-C056-40ED-8AC7-FF740C2F8A51.mobileprovision
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/embedded.mobileprovision
+lSLF07#2@199"ProcessProductPackaging "/Users/Alan/Library/MobileDevice/Provisioning Profiles/453C4EF5-C056-40ED-8AC7-FF740C2F8A51.mobileprovision" "build/Debug-iphoneos/Richard Cards.app/embedded.mobileprovision"317864596#317864596#0(0"0(0#0#125"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/embedded.mobileprovision8609051360#476"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/Alan/Library/MobileDevice/Provisioning Profiles/453C4EF5-C056-40ED-8AC7-FF740C2F8A51.mobileprovision" -o "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging "/Users/Alan/Library/MobileDevice/Provisioning Profiles/D44A5604-E000-44BC-9F3E-852CA9D6BA68.mobileprovision" "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards.xcent"
+s317864596.230108
+e317864596.253620
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards.xcent
+lSLF07#2@195"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards.xcent"317864596#317864596#0(0"0(0#0#142"/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards.xcent8607522048#498"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Debug-iphoneos/Richard Cards.build/Richard Cards.xcent"0#
+
+CTouch "/Users/Alan/Documents/Projects/RichardCards/Richard Cards/build/Debug-iphoneos/Richard Cards.app"
+r0
+
+CTouch "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app"
+s317884357.873543
+e317884357.875873
+r1
+xTouch
+x/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app
+lSLF07#2@106"Touch /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app317884357#317884357#0(0"0(0#0#0"8622591808#318"    cd /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Debug-iphoneos/Richard Cards.app"0#
+

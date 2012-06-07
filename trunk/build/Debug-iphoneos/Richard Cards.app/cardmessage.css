@@ -1,0 +1,28 @@
+
+@font-face {
+    font-family: 'CooperStdBlack';
+    src: url('cooperblackstd-webfont.svg#webfontieBuIrh5') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+	font-family: "CooperStdBlack", Helvetica;
+	font-size: 1.0em;
+	line-height: 150%;
+	margin: 0 auto;
+	text-align: center;
+	background-color: transparent;
+}
+
+#cardmessage {
+	word-wrap: break-word;
+}
+
+.intro {
+	
+}
+
+.message {
+	background: url("ul.png") bottom left repeat-x;
+}

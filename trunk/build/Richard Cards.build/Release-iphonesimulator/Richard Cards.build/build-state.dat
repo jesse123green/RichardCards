@@ -1,0 +1,623 @@
+TRichard Cards
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004D3B756B0000000000000110
+t1295742315
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/Availability.h
+c000000004BD1CFC10000000000001A1A
+t1272041409
+s6682
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.h
+c000000004D38B87400000000000003E0
+t1295562868
+s992
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m
+c000000004D41B9990000000000001989
+t1296152985
+s6537
+i"AddressView.h"
+i"SummaryView.h"
+i"MyManager.h"
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.xib
+c000000004D3C97E50000000000006E5E
+t1295816677
+s28254
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.h
+c000000004D3C9FBE00000000000000DE
+t1295818686
+s222
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.m
+c000000004D3C9FBE00000000000005A0
+t1295818686
+s1440
+i"MessageIntroView.h"
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.xib
+c000000004D3CA1C20000000000003404
+t1295819202
+s13316
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.h
+c000000004D3CA00800000000000001BB
+t1295818760
+s443
+i<UIKit/UIKit.h>
+i"MessageIntroView.h"
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.m
+c000000004D41BD080000000000001FB6
+t1296153864
+s8118
+i"MessageView.h"
+i"AddressView.h"
+i"MyManager.h"
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.xib
+c000000004D3C92EC0000000000003D9A
+t1295815404
+s15770
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MyManager.h
+c000000004D327CD600000000000002EF
+t1295154390
+s751
+i<Foundation/Foundation.h>
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MyManager.m
+c000000004D327D6400000000000004DA
+t1295154532
+s1242
+i"MyManager.h"
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/Richard_CardsAppDelegate.h
+c000000004C08832700000000000001D8
+t1275626279
+s472
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/Richard_CardsAppDelegate.m
+c000000004D3F9A150000000000000A88
+t1296013845
+s2696
+i"Richard_CardsAppDelegate.h"
+i"RootViewController.h"
+i"MessageView.h"
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/RootViewController.h
+c000000004CE842E00000000000000213
+t1290289888
+s531
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/RootViewController.m
+c000000004D3F9B6A000000000000182A
+t1296014186
+s6186
+i"RootViewController.h"
+i"MessageView.h"
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.h
+c000000004D3386DF0000000000000176
+t1295222495
+s374
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.m
+c000000004D33ACEC0000000000000C2A
+t1295232236
+s3114
+i"SummaryView.h"
+i"MyManager.h"
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.xib
+c000000004D339CD3000000000000615B
+t1295228115
+s24923
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/Background.png
+c000000004C05B874000000000001FC9A
+t1275443316
+s130202
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/NavBar.png
+c000000004C05C2800000000000003EFA
+t1275445888
+s16122
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/NavBar@2x.png
+c000000004D3F9AD500000000000095AA
+t1296014037
+s38314
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/addressLabel.png
+c000000004C070F96000000000000149A
+t1275531158
+s5274
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/btn_newrichard_normal.png
+c000000004D386CF80000000000001027
+t1295543544
+s4135
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/btn_newrichard_normal@2x.png
+c000000004D37D6270000000000001EFD
+t1295504935
+s7933
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/btn_newrichard_selected.png
+c000000004D386D130000000000000F54
+t1295543571
+s3924
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/btn_newrichard_selected@2x.png
+c000000004D37D6340000000000001D8B
+t1295504948
+s7563
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/change_approach_normal.png
+c000000004D390098000000000000187E
+t1295581336
+s6270
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/change_approach_normal@2x.png
+c000000004D3902B50000000000004A0B
+t1295581877
+s18955
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/change_approach_selected.png
+c000000004D3900CA0000000000001798
+t1295581386
+s6040
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/change_approach_selected@2x.png
+c000000004D39028F0000000000004460
+t1295581839
+s17504
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/key-selected.png
+c000000004D37B3B800000000000005D4
+t1295496120
+s1492
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/key.png
+c000000004C6DCDF700000000000002B4
+t1282264567
+s692
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/messageLabel.png
+c000000004C06DFE50000000000000FBE
+t1275518949
+s4030
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/middleRow.png
+c000000004C05EDA40000000000000574
+t1275456932
+s1396
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/middleRowSelected.png
+c000000004C05EDAF000000000000075E
+t1275456943
+s1886
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/penarichard.png
+c000000004C0714B6000000000000212B
+t1275532470
+s8491
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/penarichard_hilite.png
+c000000004C07183100000000000017F6
+t1275533361
+s6134
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/rc_main.png
+c000000004D386C64000000000002533D
+t1295543396
+s152381
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/rc_main@2x.png
+c000000004D386D8F000000000009B676
+t1295543695
+s636534
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/richardcards_main.png
+c000000004C07120B000000000002B039
+t1275531787
+s176185
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/richardcards_main_tall.png
+c000000004C073432000000000002C4F5
+t1275540530
+s181493
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/text_row_BG.png
+c000000004C5F68B40000000000000464
+t1281321140
+s1124
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Images/text_row_BG@2x.png
+c000000004C5F687400000000000004ED
+t1281321076
+s1261
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/MainWindow.xib
+c000000004C0883270000000000002F58
+t1275626279
+s12120
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Richard_Cards_Prefix.pch
+c000000004C088327000000000000014C
+t1275626279
+s332
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/RootViewController.xib
+c000000004D3C97680000000000002AE3
+t1295816552
+s10979
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app.dSYM
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/AddressView.nib
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/Background.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/Info.plist
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/MainWindow.nib
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/MessageIntroView.nib
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/MessageView.nib
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/NavBar.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/NavBar@2x.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/PkgInfo
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/Richard Cards
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/RootViewController.nib
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/SummaryView.nib
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/addressLabel.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/btn_newrichard_normal.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/btn_newrichard_normal@2x.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/btn_newrichard_selected.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/btn_newrichard_selected@2x.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/change_approach_normal.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/change_approach_normal@2x.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/change_approach_selected.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/change_approach_selected@2x.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/key-selected.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/key.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/messageLabel.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/middleRow.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/middleRowSelected.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/penarichard.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/penarichard_hilite.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/rc_main.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/rc_main@2x.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/richardcards_main.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/richardcards_main_tall.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/text_row_BG.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/text_row_BG@2x.png
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Release-iphonesimulator/Richard Cards.build/Objects-normal/i386/AddressView.o
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Release-iphonesimulator/Richard Cards.build/Objects-normal/i386/MessageIntroView.o
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Release-iphonesimulator/Richard Cards.build/Objects-normal/i386/MessageView.o
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Release-iphonesimulator/Richard Cards.build/Objects-normal/i386/MyManager.o
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Release-iphonesimulator/Richard Cards.build/Objects-normal/i386/Richard Cards.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Release-iphonesimulator/Richard Cards.build/Objects-normal/i386/Richard_CardsAppDelegate.o
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Release-iphonesimulator/Richard Cards.build/Objects-normal/i386/RootViewController.o
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Release-iphonesimulator/Richard Cards.build/Objects-normal/i386/SummaryView.o
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Richard Cards.build/Release-iphonesimulator/Richard Cards.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/main.m
+c000000004C0883270000000000000162
+t1275626279
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-eofopdmnuzmozqaypbgassdyypyb/Richard_Cards_Prefix.pch.gch
+t2
+s0
+
+NRichard_Cards-Info.plist
+c000000004D41B6AA00000000000003C3
+t1296152234
+s963
+
+CCompileC "build/Richard Cards.build/Release-iphonesimulator/Richard Cards.build/Objects-normal/i386/AddressView.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Richard Cards.build/Release-iphonesimulator/Richard Cards.build/Objects-normal/i386/MessageIntroView.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Richard Cards.build/Release-iphonesimulator/Richard Cards.build/Objects-normal/i386/MessageView.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Richard Cards.build/Release-iphonesimulator/Richard Cards.build/Objects-normal/i386/MyManager.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MyManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Richard Cards.build/Release-iphonesimulator/Richard Cards.build/Objects-normal/i386/Richard_CardsAppDelegate.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/Richard_CardsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Richard Cards.build/Release-iphonesimulator/Richard Cards.build/Objects-normal/i386/RootViewController.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Richard Cards.build/Release-iphonesimulator/Richard Cards.build/Objects-normal/i386/SummaryView.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Richard Cards.build/Release-iphonesimulator/Richard Cards.build/Objects-normal/i386/main.o" /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/AddressView.xib
+r0
+
+CCompileXIB /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageIntroView.xib
+r0
+
+CCompileXIB /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/MessageView.xib
+r0
+
+CCompileXIB /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/Classes/SummaryView.xib
+r0
+
+CCompileXIB /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/MainWindow.xib
+r0
+
+CCompileXIB /Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/RootViewController.xib
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/Background.png" Images/Background.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/NavBar.png" Images/NavBar.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/NavBar@2x.png" Images/NavBar@2x.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/addressLabel.png" Images/addressLabel.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/btn_newrichard_normal.png" Images/btn_newrichard_normal.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/btn_newrichard_normal@2x.png" Images/btn_newrichard_normal@2x.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/btn_newrichard_selected.png" Images/btn_newrichard_selected.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/btn_newrichard_selected@2x.png" Images/btn_newrichard_selected@2x.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/change_approach_normal.png" Images/change_approach_normal.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/change_approach_normal@2x.png" Images/change_approach_normal@2x.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/change_approach_selected.png" Images/change_approach_selected.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/change_approach_selected@2x.png" Images/change_approach_selected@2x.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/key-selected.png" Images/key-selected.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/key.png" Images/key.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/messageLabel.png" Images/messageLabel.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/middleRow.png" Images/middleRow.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/middleRowSelected.png" Images/middleRowSelected.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/penarichard.png" Images/penarichard.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/penarichard_hilite.png" Images/penarichard_hilite.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/rc_main.png" Images/rc_main.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/rc_main@2x.png" Images/rc_main@2x.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/richardcards_main.png" Images/richardcards_main.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/richardcards_main_tall.png" Images/richardcards_main_tall.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/text_row_BG.png" Images/text_row_BG.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Richard Cards.app/text_row_BG@2x.png" Images/text_row_BG@2x.png
+r0
+
+CGenerateDSYMFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app.dSYM" "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/Richard Cards"
+r0
+
+CLd "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/Richard Cards" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app/Info.plist" Richard_Cards-Info.plist
+r0
+
+CProcessPCH /var/folders/Sg/SgXpiMZTGtqhkUQzv+Xoik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Richard_Cards_Prefix-eofopdmnuzmozqaypbgassdyypyb/Richard_Cards_Prefix.pch.gch Richard_Cards_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/Alan/Dropbox/_RichardCards/Alan/svn/richardcards/trunk/build/Release-iphonesimulator/Richard Cards.app"
+r0
+

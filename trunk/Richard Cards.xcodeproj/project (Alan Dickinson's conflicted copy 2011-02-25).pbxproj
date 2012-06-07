@@ -1,0 +1,452 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* Richard_CardsAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* Richard_CardsAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */; };
+		28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD735F0D9D9599002E5188 /* MainWindow.xib */; };
+		28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */; };
+		28F335F11007B36200424DE2 /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28F335F01007B36200424DE2 /* RootViewController.xib */; };
+		B7A5D491130F076100598AD3 /* SendingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B7A5D48F130F076100598AD3 /* SendingView.m */; };
+		B7A5D492130F076100598AD3 /* SendingView.xib in Resources */ = {isa = PBXBuildFile; fileRef = B7A5D490130F076100598AD3 /* SendingView.xib */; };
+		B7A5D4F6130F1FC500598AD3 /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B7A5D4F5130F1FC500598AD3 /* AddressBook.framework */; };
+		B7A5D4F8130F1FC500598AD3 /* AddressBookUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B7A5D4F7130F1FC500598AD3 /* AddressBookUI.framework */; };
+		E73F8ED612E7E9CC000545D7 /* key.png in Resources */ = {isa = PBXBuildFile; fileRef = E73F8ED512E7E9CC000545D7 /* key.png */; };
+		E73F8ED812E7EB43000545D7 /* key-selected.png in Resources */ = {isa = PBXBuildFile; fileRef = E73F8ED712E7EB43000545D7 /* key-selected.png */; };
+		E73F8F1412E8088E000545D7 /* rc_main.png in Resources */ = {isa = PBXBuildFile; fileRef = E73F8F1212E8088E000545D7 /* rc_main.png */; };
+		E73F8F1512E8088E000545D7 /* rc_main@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E73F8F1312E8088E000545D7 /* rc_main@2x.png */; };
+		E73F8F1E12E80AEB000545D7 /* btn_newrichard_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = E73F8F1A12E80AEB000545D7 /* btn_newrichard_normal.png */; };
+		E73F8F1F12E80AEB000545D7 /* btn_newrichard_normal@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E73F8F1B12E80AEB000545D7 /* btn_newrichard_normal@2x.png */; };
+		E73F8F2012E80AEB000545D7 /* btn_newrichard_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = E73F8F1C12E80AEB000545D7 /* btn_newrichard_selected.png */; };
+		E73F8F2112E80AEB000545D7 /* btn_newrichard_selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E73F8F1D12E80AEB000545D7 /* btn_newrichard_selected@2x.png */; };
+		E73F8F3F12E8A77B000545D7 /* NavBar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E73F8F3E12E8A77B000545D7 /* NavBar@2x.png */; };
+		E73F908D12E93A91000545D7 /* change_approach_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = E73F908912E93A91000545D7 /* change_approach_normal.png */; };
+		E73F908E12E93A91000545D7 /* change_approach_normal@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E73F908A12E93A91000545D7 /* change_approach_normal@2x.png */; };
+		E73F908F12E93A91000545D7 /* change_approach_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = E73F908B12E93A91000545D7 /* change_approach_selected.png */; };
+		E73F909012E93A91000545D7 /* change_approach_selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E73F908C12E93A91000545D7 /* change_approach_selected@2x.png */; };
+		E75331A212E2A96D00AAD4C3 /* SummaryView.m in Sources */ = {isa = PBXBuildFile; fileRef = E75331A012E2A96D00AAD4C3 /* SummaryView.m */; };
+		E75331A312E2A96D00AAD4C3 /* SummaryView.xib in Resources */ = {isa = PBXBuildFile; fileRef = E75331A112E2A96D00AAD4C3 /* SummaryView.xib */; };
+		E7537CC2120FA0D300E03ABC /* text_row_BG.png in Resources */ = {isa = PBXBuildFile; fileRef = E7537CC0120FA0D300E03ABC /* text_row_BG.png */; };
+		E7537CC3120FA0D300E03ABC /* text_row_BG@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E7537CC1120FA0D300E03ABC /* text_row_BG@2x.png */; };
+		E761B0D112ECD73F0065BA3C /* MessageIntroView.m in Sources */ = {isa = PBXBuildFile; fileRef = E761B0CF12ECD73F0065BA3C /* MessageIntroView.m */; };
+		E761B0D212ECD73F0065BA3C /* MessageIntroView.xib in Resources */ = {isa = PBXBuildFile; fileRef = E761B0D012ECD73F0065BA3C /* MessageIntroView.xib */; };
+		E7631C0311B8BD240099A101 /* AddressView.m in Sources */ = {isa = PBXBuildFile; fileRef = E7631C0111B8BD240099A101 /* AddressView.m */; };
+		E7631C0411B8BD240099A101 /* AddressView.xib in Resources */ = {isa = PBXBuildFile; fileRef = E7631C0211B8BD240099A101 /* AddressView.xib */; };
+		E7631C0A11B8BD350099A101 /* MessageView.m in Sources */ = {isa = PBXBuildFile; fileRef = E7631C0811B8BD350099A101 /* MessageView.m */; };
+		E7631C0B11B8BD350099A101 /* MessageView.xib in Resources */ = {isa = PBXBuildFile; fileRef = E7631C0911B8BD350099A101 /* MessageView.xib */; };
+		E7631C2311B8BD9B0099A101 /* richardcards_main_tall.png in Resources */ = {isa = PBXBuildFile; fileRef = E7631C1911B8BD9B0099A101 /* richardcards_main_tall.png */; };
+		E7631C2411B8BD9B0099A101 /* richardcards_main.png in Resources */ = {isa = PBXBuildFile; fileRef = E7631C1A11B8BD9B0099A101 /* richardcards_main.png */; };
+		E7631C2511B8BD9B0099A101 /* addressLabel.png in Resources */ = {isa = PBXBuildFile; fileRef = E7631C1B11B8BD9B0099A101 /* addressLabel.png */; };
+		E7631C2611B8BD9B0099A101 /* messageLabel.png in Resources */ = {isa = PBXBuildFile; fileRef = E7631C1C11B8BD9B0099A101 /* messageLabel.png */; };
+		E7631C2711B8BD9B0099A101 /* NavBar.png in Resources */ = {isa = PBXBuildFile; fileRef = E7631C1D11B8BD9B0099A101 /* NavBar.png */; };
+		E7631C2811B8BD9B0099A101 /* penarichard.png in Resources */ = {isa = PBXBuildFile; fileRef = E7631C1E11B8BD9B0099A101 /* penarichard.png */; };
+		E7631C2911B8BD9B0099A101 /* penarichard_hilite.png in Resources */ = {isa = PBXBuildFile; fileRef = E7631C1F11B8BD9B0099A101 /* penarichard_hilite.png */; };
+		E7631C2A11B8BD9B0099A101 /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = E7631C2011B8BD9B0099A101 /* Background.png */; };
+		E7631C2B11B8BD9B0099A101 /* middleRow.png in Resources */ = {isa = PBXBuildFile; fileRef = E7631C2111B8BD9B0099A101 /* middleRow.png */; };
+		E7631C2C11B8BD9B0099A101 /* middleRowSelected.png in Resources */ = {isa = PBXBuildFile; fileRef = E7631C2211B8BD9B0099A101 /* middleRowSelected.png */; };
+		E7C5DE1B11BB57AE00BBBD53 /* MyManager.m in Sources */ = {isa = PBXBuildFile; fileRef = E7C5DE1A11BB57AE00BBBD53 /* MyManager.m */; };
+		E7E7EC311304C9BA00CED93D /* message_controls.png in Resources */ = {isa = PBXBuildFile; fileRef = E7E7EC2F1304C9BA00CED93D /* message_controls.png */; };
+		E7E7EC321304C9BA00CED93D /* message_controls@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E7E7EC301304C9BA00CED93D /* message_controls@2x.png */; };
+		E7E7EC351304C9C200CED93D /* opening_label.png in Resources */ = {isa = PBXBuildFile; fileRef = E7E7EC331304C9C200CED93D /* opening_label.png */; };
+		E7E7EC361304C9C200CED93D /* opening_label@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E7E7EC341304C9C200CED93D /* opening_label@2x.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* Richard_CardsAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Richard_CardsAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* Richard_CardsAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Richard_CardsAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* Richard Cards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Richard Cards.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28A0AAE50D9B0CCF005BE974 /* Richard_Cards_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Richard_Cards_Prefix.pch; sourceTree = "<group>"; };
+		28AD735F0D9D9599002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		28C286E00D94DF7D0034E888 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		28F335F01007B36200424DE2 /* RootViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RootViewController.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Richard_Cards-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Richard_Cards-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		B7A5D48E130F076100598AD3 /* SendingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SendingView.h; sourceTree = "<group>"; };
+		B7A5D48F130F076100598AD3 /* SendingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SendingView.m; sourceTree = "<group>"; };
+		B7A5D490130F076100598AD3 /* SendingView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = SendingView.xib; path = Classes/SendingView.xib; sourceTree = "<group>"; };
+		B7A5D4F5130F1FC500598AD3 /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
+		B7A5D4F7130F1FC500598AD3 /* AddressBookUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBookUI.framework; path = System/Library/Frameworks/AddressBookUI.framework; sourceTree = SDKROOT; };
+		E73F8ED512E7E9CC000545D7 /* key.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = key.png; sourceTree = "<group>"; };
+		E73F8ED712E7EB43000545D7 /* key-selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "key-selected.png"; sourceTree = "<group>"; };
+		E73F8F1212E8088E000545D7 /* rc_main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rc_main.png; sourceTree = "<group>"; };
+		E73F8F1312E8088E000545D7 /* rc_main@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rc_main@2x.png"; sourceTree = "<group>"; };
+		E73F8F1A12E80AEB000545D7 /* btn_newrichard_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_newrichard_normal.png; sourceTree = "<group>"; };
+		E73F8F1B12E80AEB000545D7 /* btn_newrichard_normal@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn_newrichard_normal@2x.png"; sourceTree = "<group>"; };
+		E73F8F1C12E80AEB000545D7 /* btn_newrichard_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_newrichard_selected.png; sourceTree = "<group>"; };
+		E73F8F1D12E80AEB000545D7 /* btn_newrichard_selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn_newrichard_selected@2x.png"; sourceTree = "<group>"; };
+		E73F8F3E12E8A77B000545D7 /* NavBar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NavBar@2x.png"; sourceTree = "<group>"; };
+		E73F908912E93A91000545D7 /* change_approach_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = change_approach_normal.png; sourceTree = "<group>"; };
+		E73F908A12E93A91000545D7 /* change_approach_normal@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "change_approach_normal@2x.png"; sourceTree = "<group>"; };
+		E73F908B12E93A91000545D7 /* change_approach_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = change_approach_selected.png; sourceTree = "<group>"; };
+		E73F908C12E93A91000545D7 /* change_approach_selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "change_approach_selected@2x.png"; sourceTree = "<group>"; };
+		E753319F12E2A96D00AAD4C3 /* SummaryView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SummaryView.h; sourceTree = "<group>"; };
+		E75331A012E2A96D00AAD4C3 /* SummaryView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SummaryView.m; sourceTree = "<group>"; };
+		E75331A112E2A96D00AAD4C3 /* SummaryView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = SummaryView.xib; path = Classes/SummaryView.xib; sourceTree = "<group>"; };
+		E7537CC0120FA0D300E03ABC /* text_row_BG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = text_row_BG.png; sourceTree = "<group>"; };
+		E7537CC1120FA0D300E03ABC /* text_row_BG@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "text_row_BG@2x.png"; sourceTree = "<group>"; };
+		E761B0CE12ECD73F0065BA3C /* MessageIntroView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MessageIntroView.h; sourceTree = "<group>"; };
+		E761B0CF12ECD73F0065BA3C /* MessageIntroView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MessageIntroView.m; sourceTree = "<group>"; };
+		E761B0D012ECD73F0065BA3C /* MessageIntroView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MessageIntroView.xib; path = Classes/MessageIntroView.xib; sourceTree = "<group>"; };
+		E7631C0011B8BD240099A101 /* AddressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddressView.h; sourceTree = "<group>"; };
+		E7631C0111B8BD240099A101 /* AddressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddressView.m; sourceTree = "<group>"; };
+		E7631C0211B8BD240099A101 /* AddressView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = AddressView.xib; path = Classes/AddressView.xib; sourceTree = "<group>"; };
+		E7631C0711B8BD350099A101 /* MessageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MessageView.h; sourceTree = "<group>"; };
+		E7631C0811B8BD350099A101 /* MessageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MessageView.m; sourceTree = "<group>"; };
+		E7631C0911B8BD350099A101 /* MessageView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MessageView.xib; path = Classes/MessageView.xib; sourceTree = "<group>"; };
+		E7631C1911B8BD9B0099A101 /* richardcards_main_tall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = richardcards_main_tall.png; sourceTree = "<group>"; };
+		E7631C1A11B8BD9B0099A101 /* richardcards_main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = richardcards_main.png; sourceTree = "<group>"; };
+		E7631C1B11B8BD9B0099A101 /* addressLabel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = addressLabel.png; sourceTree = "<group>"; };
+		E7631C1C11B8BD9B0099A101 /* messageLabel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = messageLabel.png; sourceTree = "<group>"; };
+		E7631C1D11B8BD9B0099A101 /* NavBar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NavBar.png; sourceTree = "<group>"; };
+		E7631C1E11B8BD9B0099A101 /* penarichard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = penarichard.png; sourceTree = "<group>"; };
+		E7631C1F11B8BD9B0099A101 /* penarichard_hilite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = penarichard_hilite.png; sourceTree = "<group>"; };
+		E7631C2011B8BD9B0099A101 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Background.png; sourceTree = "<group>"; };
+		E7631C2111B8BD9B0099A101 /* middleRow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = middleRow.png; sourceTree = "<group>"; };
+		E7631C2211B8BD9B0099A101 /* middleRowSelected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = middleRowSelected.png; sourceTree = "<group>"; };
+		E7C5DE1911BB57AE00BBBD53 /* MyManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyManager.h; sourceTree = "<group>"; };
+		E7C5DE1A11BB57AE00BBBD53 /* MyManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyManager.m; sourceTree = "<group>"; };
+		E7E7EC2F1304C9BA00CED93D /* message_controls.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = message_controls.png; sourceTree = "<group>"; };
+		E7E7EC301304C9BA00CED93D /* message_controls@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "message_controls@2x.png"; sourceTree = "<group>"; };
+		E7E7EC331304C9C200CED93D /* opening_label.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = opening_label.png; sourceTree = "<group>"; };
+		E7E7EC341304C9C200CED93D /* opening_label@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "opening_label@2x.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */,
+				B7A5D4F6130F1FC500598AD3 /* AddressBook.framework in Frameworks */,
+				B7A5D4F8130F1FC500598AD3 /* AddressBookUI.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				28C286DF0D94DF7D0034E888 /* RootViewController.h */,
+				28C286E00D94DF7D0034E888 /* RootViewController.m */,
+				1D3623240D0F684500981E51 /* Richard_CardsAppDelegate.h */,
+				1D3623250D0F684500981E51 /* Richard_CardsAppDelegate.m */,
+				E7631C0711B8BD350099A101 /* MessageView.h */,
+				E7631C0811B8BD350099A101 /* MessageView.m */,
+				E761B0CE12ECD73F0065BA3C /* MessageIntroView.h */,
+				E761B0CF12ECD73F0065BA3C /* MessageIntroView.m */,
+				E7631C0011B8BD240099A101 /* AddressView.h */,
+				E7631C0111B8BD240099A101 /* AddressView.m */,
+				E753319F12E2A96D00AAD4C3 /* SummaryView.h */,
+				E75331A012E2A96D00AAD4C3 /* SummaryView.m */,
+				E7C5DE1911BB57AE00BBBD53 /* MyManager.h */,
+				E7C5DE1A11BB57AE00BBBD53 /* MyManager.m */,
+				B7A5D48E130F076100598AD3 /* SendingView.h */,
+				B7A5D48F130F076100598AD3 /* SendingView.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* Richard Cards.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				B7A5D4F5130F1FC500598AD3 /* AddressBook.framework */,
+				B7A5D4F7130F1FC500598AD3 /* AddressBookUI.framework */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				28A0AAE50D9B0CCF005BE974 /* Richard_Cards_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E7631C1811B8BD9B0099A101 /* Images */,
+				28F335F01007B36200424DE2 /* RootViewController.xib */,
+				E7631C0911B8BD350099A101 /* MessageView.xib */,
+				E7631C0211B8BD240099A101 /* AddressView.xib */,
+				28AD735F0D9D9599002E5188 /* MainWindow.xib */,
+				E75331A112E2A96D00AAD4C3 /* SummaryView.xib */,
+				B7A5D490130F076100598AD3 /* SendingView.xib */,
+				8D1107310486CEB800E47090 /* Richard_Cards-Info.plist */,
+				E761B0D012ECD73F0065BA3C /* MessageIntroView.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E7631C1811B8BD9B0099A101 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				E73F8F1A12E80AEB000545D7 /* btn_newrichard_normal.png */,
+				E73F8F1B12E80AEB000545D7 /* btn_newrichard_normal@2x.png */,
+				E73F8F1C12E80AEB000545D7 /* btn_newrichard_selected.png */,
+				E73F8F1D12E80AEB000545D7 /* btn_newrichard_selected@2x.png */,
+				E73F908912E93A91000545D7 /* change_approach_normal.png */,
+				E73F908A12E93A91000545D7 /* change_approach_normal@2x.png */,
+				E73F908B12E93A91000545D7 /* change_approach_selected.png */,
+				E73F908C12E93A91000545D7 /* change_approach_selected@2x.png */,
+				E73F8F1212E8088E000545D7 /* rc_main.png */,
+				E73F8F1312E8088E000545D7 /* rc_main@2x.png */,
+				E73F8ED512E7E9CC000545D7 /* key.png */,
+				E73F8ED712E7EB43000545D7 /* key-selected.png */,
+				E7537CC0120FA0D300E03ABC /* text_row_BG.png */,
+				E7537CC1120FA0D300E03ABC /* text_row_BG@2x.png */,
+				E7631C1911B8BD9B0099A101 /* richardcards_main_tall.png */,
+				E7631C1A11B8BD9B0099A101 /* richardcards_main.png */,
+				E7631C1B11B8BD9B0099A101 /* addressLabel.png */,
+				E7631C1C11B8BD9B0099A101 /* messageLabel.png */,
+				E7E7EC2F1304C9BA00CED93D /* message_controls.png */,
+				E7E7EC301304C9BA00CED93D /* message_controls@2x.png */,
+				E7631C1D11B8BD9B0099A101 /* NavBar.png */,
+				E73F8F3E12E8A77B000545D7 /* NavBar@2x.png */,
+				E7E7EC331304C9C200CED93D /* opening_label.png */,
+				E7E7EC341304C9C200CED93D /* opening_label@2x.png */,
+				E7631C1E11B8BD9B0099A101 /* penarichard.png */,
+				E7631C1F11B8BD9B0099A101 /* penarichard_hilite.png */,
+				E7631C2011B8BD9B0099A101 /* Background.png */,
+				E7631C2111B8BD9B0099A101 /* middleRow.png */,
+				E7631C2211B8BD9B0099A101 /* middleRowSelected.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* Richard Cards */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Richard Cards" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Richard Cards";
+			productName = "Richard Cards";
+			productReference = 1D6058910D05DD3D006BFB54 /* Richard Cards.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Richard Cards" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* Richard Cards */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */,
+				28F335F11007B36200424DE2 /* RootViewController.xib in Resources */,
+				E7631C0411B8BD240099A101 /* AddressView.xib in Resources */,
+				E7631C0B11B8BD350099A101 /* MessageView.xib in Resources */,
+				E7631C2311B8BD9B0099A101 /* richardcards_main_tall.png in Resources */,
+				E7631C2411B8BD9B0099A101 /* richardcards_main.png in Resources */,
+				E7631C2511B8BD9B0099A101 /* addressLabel.png in Resources */,
+				E7631C2611B8BD9B0099A101 /* messageLabel.png in Resources */,
+				E7631C2711B8BD9B0099A101 /* NavBar.png in Resources */,
+				E7631C2811B8BD9B0099A101 /* penarichard.png in Resources */,
+				E7631C2911B8BD9B0099A101 /* penarichard_hilite.png in Resources */,
+				E7631C2A11B8BD9B0099A101 /* Background.png in Resources */,
+				E7631C2B11B8BD9B0099A101 /* middleRow.png in Resources */,
+				E7631C2C11B8BD9B0099A101 /* middleRowSelected.png in Resources */,
+				E7537CC2120FA0D300E03ABC /* text_row_BG.png in Resources */,
+				E7537CC3120FA0D300E03ABC /* text_row_BG@2x.png in Resources */,
+				E75331A312E2A96D00AAD4C3 /* SummaryView.xib in Resources */,
+				E73F8ED612E7E9CC000545D7 /* key.png in Resources */,
+				E73F8ED812E7EB43000545D7 /* key-selected.png in Resources */,
+				E73F8F1412E8088E000545D7 /* rc_main.png in Resources */,
+				E73F8F1512E8088E000545D7 /* rc_main@2x.png in Resources */,
+				E73F8F1E12E80AEB000545D7 /* btn_newrichard_normal.png in Resources */,
+				E73F8F1F12E80AEB000545D7 /* btn_newrichard_normal@2x.png in Resources */,
+				E73F8F2012E80AEB000545D7 /* btn_newrichard_selected.png in Resources */,
+				E73F8F2112E80AEB000545D7 /* btn_newrichard_selected@2x.png in Resources */,
+				E73F8F3F12E8A77B000545D7 /* NavBar@2x.png in Resources */,
+				E73F908D12E93A91000545D7 /* change_approach_normal.png in Resources */,
+				E73F908E12E93A91000545D7 /* change_approach_normal@2x.png in Resources */,
+				E73F908F12E93A91000545D7 /* change_approach_selected.png in Resources */,
+				E73F909012E93A91000545D7 /* change_approach_selected@2x.png in Resources */,
+				E761B0D212ECD73F0065BA3C /* MessageIntroView.xib in Resources */,
+				E7E7EC311304C9BA00CED93D /* message_controls.png in Resources */,
+				E7E7EC321304C9BA00CED93D /* message_controls@2x.png in Resources */,
+				E7E7EC351304C9C200CED93D /* opening_label.png in Resources */,
+				E7E7EC361304C9C200CED93D /* opening_label@2x.png in Resources */,
+				B7A5D492130F076100598AD3 /* SendingView.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* Richard_CardsAppDelegate.m in Sources */,
+				28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */,
+				E7631C0311B8BD240099A101 /* AddressView.m in Sources */,
+				E7631C0A11B8BD350099A101 /* MessageView.m in Sources */,
+				E7C5DE1B11BB57AE00BBBD53 /* MyManager.m in Sources */,
+				E75331A212E2A96D00AAD4C3 /* SummaryView.m in Sources */,
+				E761B0D112ECD73F0065BA3C /* MessageIntroView.m in Sources */,
+				B7A5D491130F076100598AD3 /* SendingView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Richard_Cards_Prefix.pch;
+				INFOPLIST_FILE = "Richard_Cards-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 3.2.2;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "Richard Cards";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Richard_Cards_Prefix.pch;
+				INFOPLIST_FILE = "Richard_Cards-Info.plist";
+				PRODUCT_NAME = "Richard Cards";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphonesimulator3.1.3;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Richard Cards" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Richard Cards" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

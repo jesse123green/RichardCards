@@ -1,0 +1,118 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Richard Cards */ = {
+		activeExec = 0;
+		executables = (
+			283A7C90130EBA2C009A8597 /* Richard Cards */,
+		);
+	};
+	283A7C90130EBA2C009A8597 /* Richard Cards */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Richard Cards";
+		sourceDirectories = (
+		);
+	};
+	283A7C9D130EBA59009A8597 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	283A7C9E130EBA59009A8597 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	283A7CAA130EBACE009A8597 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "error: 'scrollView' undeclared (first use in this function)";
+		fRef = E7631C0111B8BD240099A101 /* AddressView.m */;
+		rLen = 1;
+		rLoc = 234;
+		rType = 1;
+	};
+	283A7CAB130EBACE009A8597 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E7631C0111B8BD240099A101 /* AddressView.m */;
+		name = "AddressView.m: 232";
+		rLen = 0;
+		rLoc = 6259;
+		rType = 0;
+		vrLen = 758;
+		vrLoc = 6026;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 283A7C90130EBA2C009A8597 /* Richard Cards */;
+		activeSDKPreference = iphonesimulator3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Richard Cards */;
+		codeSenseManager = 283A7C9E130EBA59009A8597 /* Code sense */;
+		executables = (
+			283A7C90130EBA2C009A8597 /* Richard Cards */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319732268;
+			PBXWorkspaceStateSaveDate = 319732268;
+		};
+		perUserProjectItems = {
+			283A7CAA130EBACE009A8597 /* PBXTextBookmark */ = 283A7CAA130EBACE009A8597 /* PBXTextBookmark */;
+			283A7CAB130EBACE009A8597 /* PBXTextBookmark */ = 283A7CAB130EBACE009A8597 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 283A7C9D130EBA59009A8597 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E7631C0111B8BD240099A101 /* AddressView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {984, 4088}}";
+			sepNavSelRange = "{6259, 0}";
+			sepNavVisRange = "{6331, 629}";
+		};
+	};
+	E7631C0811B8BD350099A101 /* MessageView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {984, 4074}}";
+			sepNavSelRange = "{232, 46}";
+			sepNavVisRange = "{132, 684}";
+		};
+	};
+}
